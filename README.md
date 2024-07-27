@@ -2,7 +2,7 @@
 
 <div align='center'>
   <h1><b>Comprehensive Used Car Listings And Recommendation System</b></h1>
-  <img src='cars1.png'/>
+  <img src='./cars1.png' alt='Car Listings'/>
   <br><br>
   <p>This project is focused on creating a Natural Language Processing (LLM) model that can determine if reviews are positive or negative (performing sentiment analysis) and provide recommendations based on the results.</p>
   <br>
