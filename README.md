@@ -6,6 +6,7 @@
     <br><br>
     <p>This project is focused on creating a Natural Language Processing (LLM) model that can determine if reviews are positive or negative (performing sentiment analysis) and provide recommendations based on the results.</p>
     <br>
+</div>
 
 ---
 
